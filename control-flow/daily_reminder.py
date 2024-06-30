@@ -30,4 +30,4 @@ else:
     reminder = "Invalid input for time-bound. Please enter yes or no."
 
 # Provide a customized reminder
-print(reminder)
+print(f"Reminder: {reminder}")
